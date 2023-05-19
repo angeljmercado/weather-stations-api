@@ -6,7 +6,7 @@ air temperature and precipitation series for the European Climate Assessment.
 Int. J. of Climatol., 22, 1441-1453.
 Data and metadata available at http://www.ecad.eu
 
-FILE FORMAT (MISSING VALUE CODE = -9999):
+FILE FORMAT (MISSING VALUE CODE = -9999): 
 
 01-06 STAID: Station identifier
 08-13 SOUID: Source identifier
